@@ -1,9 +1,5 @@
 # mpv-settings
-My settings for mpv. Specs:
-- Linux (Kubuntu, I try to stay on the newest release)
-- Intel i5-12400
-- AMD Radeon RX 6650XT
-- 32GB RAM
+My settings for mpv. This branch is more default-like and seemingly performs better on weaker hardware.
 
 ### Usage (Linux)
 ```bash
