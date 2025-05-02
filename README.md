@@ -1,5 +1,10 @@
 # mpv-settings
-My settings for mpv. This branch is more default-like and seemingly performs better on weaker hardware.
+My settings for mpv 0.35.1. This branch is more default-like and seemingly performs better on weaker hardware. Specs:
+- Debian 12
+- Intel i5-1335U
+- No GPU
+- 16GB RAM
+- NVMe SSD
 
 ### Usage (Linux)
 ```bash
