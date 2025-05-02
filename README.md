@@ -1,9 +1,10 @@
 # mpv-settings
-My settings for mpv. Specs:
-- Linux (Kubuntu, I try to stay on the newest release)
+My settings for mpv 0.37.0. Specs:
+- Kubuntu 22.04 LTS
 - Intel i5-12400
 - AMD Radeon RX 6650XT
 - 32GB RAM
+- NVMe SSD
 
 ### Usage (Linux)
 ```bash
