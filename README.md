@@ -1,8 +1,8 @@
 # mpv-settings
-My settings for mpv 0.35.1. This branch is more default-like and seemingly performs better on weaker hardware. Specs:
-- Debian 12
+My settings for mpv 0.40.0. This branch is more default-like and seemingly performs better on weaker hardware. Specs:
+- Debian 13
 - Intel i5-1335U
-- No GPU
+- Only iGPU supplied by the CPU above - Intel Iris Xe
 - 16GB RAM
 - NVMe SSD
 
